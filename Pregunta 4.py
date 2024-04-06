@@ -6,7 +6,6 @@ class Rectangulo:
     def calcular_area(self):
         return self.largo * self.ancho
 
-# Ejemplo de uso
 if __name__ == "__main__":
     largo = float(input("Ingrese el largo del rectángulo: "))
     ancho = float(input("Ingrese el ancho del rectángulo: "))
